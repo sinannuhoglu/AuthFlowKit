@@ -50,8 +50,6 @@ com.sinannuhoglu.authflowkit/
 | **Authentication**   | Firebase Authentication                     | Email/Password based user login system                |
 | **State Management** | State + MutableStateFlow                    | Reactive UI state handling with Flow                  |
 | **UI Components**    | Material3 (Material You)                    | Modern Material UI widgets and styling                |
-| **Build System**     | Gradle (Kotlin DSL)                         | Build configuration and dependency management         |
-| **IDE**              | Android Studio (Hedgehog or later)          | Official development environment                      |
 
 ---
 
